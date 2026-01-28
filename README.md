@@ -68,4 +68,4 @@ This project is powered by an AI skill. To use it:
 3. The agent will output a professional `.md` file in the repository.
 
 ---
-*Created with ❤️ by Antigravity AI*
+*Created with ❤️ by Santosh kumbar with help ofAntigravity AI*
